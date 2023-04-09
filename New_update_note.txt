@@ -1,0 +1,6 @@
+install:
+    install auto start
+lib:
+    speedtest-cli
+    git
+    python-tk
